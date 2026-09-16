@@ -73,3 +73,8 @@ p {
     text-decoration: none;
     color:yellow;
 }
+
+.link:hover {
+    text-decoration:underline crimson;
+    color:black;
+}
